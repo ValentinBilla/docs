@@ -137,9 +137,9 @@ namespace TourOfCsharp
             //</UsingEnums>
 
             //<DeclareNullable>
-            int? optionalInt = default; 
+            int? optionalInt = null; 
             optionalInt = 5;
-            string? optionalText = default;
+            string? optionalText = null;
             optionalText = "Hello World.";
             //</DeclareNullable>
 
